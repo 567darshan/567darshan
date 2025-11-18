@@ -1,12 +1,12 @@
 name: Generate Snake Contribution Grid
 
 on:
-  schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual trigger
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -14,7 +14,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+      # Use your default branch here (main or master)
+        uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Generate Snake animation
         uses: Platane/snk@v3
@@ -24,8 +27,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
