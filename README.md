@@ -1,107 +1,118 @@
-<!-- 3D Wave Header -->
+<!-- TOP: Logo + Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Darshan%20A&fontAlign=50&fontAlignY=35&color=0:00F7FF,100:8A2BE2&fontColor=FFFFFF&fontSize=45&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Game%20Logic%20Enthusiast&descAlignY=60&descAlign=50" />
+  <!-- Personal logo – put your image in assets/logo.png -->
+  <img src="https://raw.githubusercontent.com/567darshan/567darshan/main/assets/logo.png" alt="Darshan Logo" width="96" style="border-radius: 24px; box-shadow: 0 0 25px rgba(0, 247, 255, 0.55);" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20I'm%20Darshan%20A&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=46&color=0:020617,50:111827,100:0f172a&stroke=00F5FF&strokeWidth=1&animation=fadeIn" />
 </p>
 
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+modern+web+apps+and+playful+game+experiences;Exploring+full-stack+development+step+by+step;Always+learning%2C+always+shipping+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress;Modern+Web+and+Game+Experiences;Neon+Dark+Theme+%7C+Clean+Code+%7C+Strong+Logic" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=567darshan&label=Profile+Views&color=00F7FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=567darshan&style=flat-square&color=00F5FF" />
 </p>
 
 ---
 
-## 🌍 About Me
+## 🧬 About Me
 
-- 🎓 CSE student who enjoys **breaking ideas into logic and code**
-- 🎮 Love transforming board games & concepts into **interactive web apps**
-- 🧠 Interested in **full-stack development, real-time systems & clean UI**
-- 💡 Believe in **learning by building** – projects > theory
-- 🎯 Goal: land a strong **high-paying dev role** and keep improving every day
+> Curious mind + strong logic + love for UI.
+
+- 🎓 CSE student, exploring **full-stack development** and **game logic**
+- 🎮 Enjoy turning board games & ideas into **interactive web experiences**
+- 🧠 Focused on **readable code**, good architecture, and UI polish
+- 🎯 Goal: become a **high-impact, high-paying** software engineer
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (3D-Style Icons)
 
-### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,python,java,cpp&theme=dark" />
+  <!-- 3D-ish effect via neon colors + icon set -->
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,cpp,java,python&theme=dark" />
 </p>
 
-### 🗄️ Databases, Tools & Other
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
 </p>
 
 ---
 
-## 🔭 Currently Focusing On
+## 📊 Skill Snapshot
 
-- Improving **frontend skills** with React + modern UI design
-- Understanding **backend architecture** (auth, APIs, security, sockets)
-- Writing **clean, maintainable code** instead of just “working code”
-- Turning ideas into **projects** that I can show in interviews & on GitHub
+> Not “expert” yet – but improving every week.
 
----
-
-## 🧩 Some Things I’ve Built
-
-- 🎮 **Advanced Ludo Web Game** – full UI, token movement engine, activity log  
-- 🔐 **Auth & JWT-based projects** – login/register flows, protected routes  
-- ☁️ Small experiments with **APIs, forms, and state management**
-
-> I keep improving these projects as I learn new patterns and techniques.
+| Area                | Level        | Progress |
+|--------------------|-------------|----------|
+| **React + Frontend** | Growing     | ███████░░░ 70% |
+| **Node.js + APIs**   | Comfortable | ██████░░░░ 60% |
+| **Problem Solving**  | Improving   | █████░░░░░ 50% |
+| **UI/UX & Design**   | Learning    | ████░░░░░░ 40% |
+| **Game Logic**       | Strong base | ███████░░░ 70% |
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 Projects (Premium Cards)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=567darshan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=567darshan&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=567darshan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Advanced Ludo Web Game</h3>
+      <p>
+        Full Ludo-style experience with neon dark board, token movement logic,
+        activity log and clean layout. Built with React + custom hooks.
+      </p>
+      <a href="https://github.com/567darshan/ludo-game">
+        <img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge&logo=github&logoColor=0f172a" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-111827?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Logic-0f172a?style=flat&logo=codeforces&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🔐 Auth & JWT Experiments</h3>
+      <p>
+        Login / register flows, token-based auth, protected routes and basic
+        security practices to prepare for real-world full-stack systems.
+      </p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Coming%20Soon-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Node.js-111827?style=flat&logo=nodedotjs&logoColor=3C873A" />
+      <img src="https://img.shields.io/badge/JWT-0f172a?style=flat&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+> GitHub markdown doesn’t support real hover animations,  
+> but this layout feels like project **cards** on a portfolio.
 
 ---
 
-## 🐍 Contribution Snake
+## 🕒 Learning Timeline
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/567darshan/567darshan/output/github-contribution-grid-snake.svg" alt="github contribution snake animation">
-</p>
-
----
-
-## 🚀 2025 Roadmap
-
-- Ship more **full-stack apps** (auth, real-time, dashboards, games)
-- Deploy projects on **cloud hosting** (Vercel / Render / AWS)
-- Practice **DSA / problem solving** for interviews
-- Contribute to **open-source** and tech communities
-- Grow into a **confident, production-ready developer**
-
----
-
-## ⚡ Final Line
-
-> I’m not just learning to code – I’m learning to **design, build and ship** real experiences.  
-> If you like my work or want to collaborate, feel free to reach out. 🙂
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:8A2BE2" />
-</p>
+```text
+2023 ─── Started CSE & basic programming
+2024 ─── HTML, CSS, JS, C++, Java fundamentals
+2024 ─── First small web apps and experiments
+2025 ─── React, Node.js, Auth, APIs, game logic (Ludo)
+2025+ ── Real-time systems, cloud deployment, interview prep
