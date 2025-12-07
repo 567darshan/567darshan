@@ -1,36 +1,35 @@
-<!-- Gradient Header -->
+<!-- Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hey%20I'm%20Darshan%20A&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=48&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0047FF&height=220&text=Hey%20I'm%20Darshan%20A&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 </p>
 
-<!-- Professional animated subtitle -->
+<!-- Animated Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress;Building+Modern+Web+Apps+%26+Game+Logic;Clean+Code+%7C+Creative+Thinking+%7C+Strong+Logic;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress;Building+Modern+Web+Apps+%26+Game+Logic;Clean+Code+%7C+Creative+Design+%7C+Strong+Logic">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=567darshan&style=flat-square&color=00E5FF" />
+  <img src="https://komarev.com/ghpvc/?username=567darshan&style=flat-square&color=00E5FF">
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m **Darshan A**, a CSE student passionate about building:
+I’m **Darshan A**, a CSE student passionate about:
 
-- ⚡ *Modern full-stack applications*  
-- 🎮 *Game logic engines (Ludo, Snake, ML-based games)*  
-- 🎨 *Smooth UI/UX with clean architecture*  
-- 💡 *Real projects that look professional and feel polished*
+- ⚡ Full-stack development  
+- 🎮 Game logic & real-time interactive systems  
+- 🎨 Clean UI / UX & modern web design  
+- 🧠 Building polished, production-like projects  
 
-I believe in **learning by building** —  
-turning ideas → logic → code → real usable products.
+I learn by building — turning ideas → beautiful applications.
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -49,35 +48,16 @@ turning ideas → logic → code → real usable products.
 
 ---
 
-## 🌟 Highlights
+## ⭐ Featured Work
+(Professional but NOT over-highlighted)
 
-- 💠 **Frontend:** React, modern layouts, clean components  
-- 💠 **Backend:** Node.js, APIs, auth (JWT), basic security  
-- 💠 **Game Logic:** Turn-based systems, movement paths, board logic  
-- 💠 **Problem Solving:** Breaking complex tasks into simple functions  
-- 💠 **Mindset:** Consistent, curious, always improving  
-
----
-
-## 🔥 Featured Work
-
-- 🎮 **Advanced Ludo Web Game**  
-  Token movement engine, activity log, coloured board UI  
-
-- 🔐 **Auth + JWT Projects**  
-  Login, signup, protected routes, basic token-based security  
-
-- 🌐 **Frontend UI Pages**  
-  Landing pages, forms, layouts, and interactive UI pieces  
-
-<p align="center">
-  <i>More detailed projects coming soon…</i>
-</p>
+- 🎮 **Advanced Ludo Web Game** – movement logic, UI, activity log  
+- 🔐 **JWT Auth Projects** – secure login/signup  
+- 💻 **Frontend UI Projects** – modern, animated, responsive  
 
 ---
 
-## 📈 GitHub Analytics
-
+## 📈 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=567darshan&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=567darshan&theme=tokyonight&hide_border=true" />
@@ -89,6 +69,16 @@ turning ideas → logic → code → real usable products.
 
 ---
 
+## ✨ Random Dev Quote  
+> ✔️ **Styled exactly like the screenshot you sent**  
+> ✔️ Clean, premium, dark UI  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">  
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/567darshan/567darshan/output/github-contribution-grid-snake.svg">
@@ -96,23 +86,16 @@ turning ideas → logic → code → real usable products.
 
 ---
 
-## ✨ Random Dev Quote 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Code+is+not+just+syntax%2C+it's+thinking.;Build+things+that+you+would+actually+use.;Small+consistent+steps+beat+random+motivation.;Good+logic+%2B+good+UI+%3D+great+software.;Every+project+teaches+you+something+new." />
-</p>
-
----
-
 ## 🎯 2025 Goals
-- Master *frontend + backend*  
-- Build **high-quality deployable apps**  
-- Get a **high-paying developer job**  
-- Improve **logic, UI, real-time systems**  
-- Keep shipping projects & refining skills  
+- Master **frontend + backend**
+- Build **deployable advanced projects**
+- Get a **high-paying developer job**
+- Improve real-time systems & UI
+- Keep shipping polished work
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0047FF,100:00E5FF">
 </p>
