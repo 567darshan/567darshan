@@ -1,51 +1,95 @@
-# 👋 Hi, I'm Darshan A
-
-🚀 *Passionate learner exploring development and real-world problem solving.*  
-💡 Focused on writing clean code and building impactful projects.
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-a-91652a265)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanveerapur986@gmail.com)
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Hey+There!+I'm+Darshan+A;Full-Stack+Developer+%7C+Game+Dev+Enthusiast;Building+Modern+Apps+%26+Smart+Systems" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+<!-- Center intro -->
+<h2 align="center">🚀 Passionate Developer | ⚡ Clean Code | 🎮 Game Logic Expert</h2>
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
+<p align="center">
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ---
 
-## 📚 Currently Learning
-🌱 *Improving development skills and exploring new technologies to build scalable applications.*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats (567darshan)
+## ⚡ Tech Stack (Animated Icons)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=567darshan&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=567darshan&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=567darshan&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,python,java,cpp,mongodb,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 🎮 Featured Project – **Advanced Ludo Game**
+> Full Ludo King–style movement + UI
 
-![snake gif](https://github.com/567darshan/567darshan/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_Ludo_Game-00F7FF?style=for-the-badge&logo=github&logoColor=black">
+</p>
+
+🔗 Repo: https://github.com/567darshan/ludo-game  
+✔ Full 52-step movement engine  
+✔ Pawn animations  
+✔ Modern UI  
+✔ Game logic + event logs  
+✔ Expansion support for online multiplayer  
 
 ---
 
-## ✨ Random Dev Quote
+## 📊 GitHub Analytics (Animated)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=567darshan&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=567darshan&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=567darshan&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
-⭐ *Feel free to explore my repositories and connect with me!*
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/567darshan/567darshan/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+## 🚀 Currently Learning
+- Game development logic & path algorithms  
+- Real-time systems (WebSockets)  
+- Backend architecture & security  
+- Modern React patterns & UI engineering  
+
+---
+
+## 🏆 2025 Goals
+- Build 3 full-stack production-grade apps  
+- Deploy scalable cloud projects  
+- Master DSA  
+- Secure a high-paying developer job  
+- Contribute to open-source  
+
+---
+
+## ⚡ Fun Fact
+🎮 I love reversing real-world games into digital logic and bringing them to life through code.
+
+---
+
+<p align="center">
+  <img src="https://github.com/567darshan/567darshan/blob/main/assets/wave.svg" width="100%" />
+</p>
