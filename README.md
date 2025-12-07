@@ -35,7 +35,6 @@ I learn by building — turning ideas → beautiful applications.
 ---
 
 ## 🛠 Tech Stack
-
 ### ⚡ Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,cpp,java,python&theme=dark">
@@ -49,7 +48,6 @@ I learn by building — turning ideas → beautiful applications.
 ---
 
 ## ⭐ Featured Work
-(Professional but NOT over-highlighted)
 
 - 🎮 **Advanced Ludo Web Game** – movement logic, UI, activity log  
 - 🔐 **JWT Auth Projects** – secure login/signup  
@@ -69,9 +67,7 @@ I learn by building — turning ideas → beautiful applications.
 
 ---
 
-## ✨ Random Dev Quote  
-> ✔️ **Styled exactly like the screenshot you sent**  
-> ✔️ Clean, premium, dark UI  
+## ✨ Random Dev Quote 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">  
