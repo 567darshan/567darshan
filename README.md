@@ -1,76 +1,57 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/567darshan/567darshan/main/assets/banner.png" width="100%" />
-</p>
-
-<h1 align="center">🚀 Darshan A</h1>s
+<h1 align="center" style="font-weight:700; font-size:42px;">
+✨ Hey Darshan — Building Cool & Modern Tech ✨
+</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Game Logic Engineer | UI/UX Enthusiast</b><br>
-  <i>Designing modern experiences with logic, creativity, and clean engineering.</i>
+  <b>Passionate Developer</b> • <b>Clean Code Enthusiast</b> • <b>Game Logic & UI Lover</b>
 </p>
 
 ---
 
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,mongodb,git,aws&theme=dark" />
+## 🚀 About Me  
+- 🎓 CSE student with a strong interest in **full-stack development & game logic**  
+- 🧠 Curious mind, loves solving complex problems  
+- 🎮 Enjoy turning ideas into **interactive, real-world applications**  
+- ✨ Focused on writing **clean code, good architecture, and beautiful UI**
+
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me  
-- 🎓 CSE Student with passion for **development & system design**  
-- 🎮 Love building **game logic engines** like Ludo, Chess, and AI-based bots  
-- 🧩 Strong interest in **algorithms, UI engineering, and real-world problem solving**  
-- ✨ Focused on **clean code**, clean architecture, and performance  
-
----
-
-## 🔥 Featured Projects  
-> *Hover effects, clean layout — looks professional*
-
-### **🎲 Advanced Ludo Multiplayer**
-✔ Full board movement  
-✔ Dice engine + path logic  
-✔ Real-time socket gameplay  
-✔ Clean UI  
-<br>
-👉 **Repo:** https://github.com/567darshan/ludo-game
-
----
-
-## 💼 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"></a>
-  <a href="mailto:darshan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"></a>
+## 🛠️ Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Currently Working On  
+- ⚡ Improving problem-solving  
+- 🎨 Enhancing UI/UX skills  
+- 🕹️ Building a full **Ludo game engine** (logic + animations + multiplayer)
+
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=567darshan&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=567darshan&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=567darshan&show_icons=true&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=567darshan&layout=compact&theme=react&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌀 Contribution Snake
-<p align="center">
-  <img src="https://github.com/567darshan/567darshan/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 🧩 Fun Fact  
+I believe **clean UI + strong logic = perfect software** ✨
 
 ---
 
-## 🧩 Currently Exploring  
-- Advanced game engines  
-- Real-time communication (WebSockets, Socket.io)  
-- UI animation frameworks  
-- Cloud & deployment workflows  
-
----
-
-<p align="center">
-  ✨ *Always learning. Always building. Always improving.*  
-</p>
