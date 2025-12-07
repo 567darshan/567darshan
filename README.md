@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=567darshan&style=flat-square&color=00E5FF">
 </p>
 
----
 
 ## 🚀 About Me  
 I’m **Darshan A**, a CSE student passionate about:
@@ -24,18 +23,13 @@ I’m **Darshan A**, a CSE student passionate about:
 
 I improve by creating → testing → polishing → shipping.
 
----
-
 ## 🌐 Connect With Me  
 <p align="center" style="margin-top: -10px;">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
 ## 🛠 Tech Stack
-
 ### ⚡ Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,cpp,java,python&theme=dark">
@@ -46,14 +40,10 @@ I improve by creating → testing → polishing → shipping.
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,postman,git,github,vscode,figma&theme=dark">
 </p>
 
----
-
 ## ⭐ Featured Work  
 - 🎮 **Advanced Ludo Web Game** – token logic, movement, UI, activity log  
 - 🔐 **JWT Auth Systems** – secure auth flow  
 - 🖥 **Frontend UI Projects** – animated, responsive  
-
----
 
 ## 📈 GitHub Stats  
 <p align="center">
@@ -65,25 +55,16 @@ I improve by creating → testing → polishing → shipping.
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=567darshan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## ✨ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
-
----
 
 ## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/567darshan/567darshan/output/github-contribution-grid-snake.svg">
 </p>
 
----
-
-s  
-
----
 
 <!-- Footer -->
 <p align="center">
