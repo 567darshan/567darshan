@@ -1,31 +1,34 @@
-<!-- Top Gradient Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<!-- Typing Header -->
+<!-- 3D Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Darshan+A;Full+Stack+Developer;Building+Modern+Web+%26+Game+Experiences" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Darshan%20A&fontAlign=50&fontAlignY=35&color=0:00F7FF,100:8A2BE2&fontColor=FFFFFF&fontSize=45&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Game%20Logic%20Enthusiast&descAlignY=60&descAlign=50" />
+</p>
+
+<!-- Typing line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+modern+web+apps+and+playful+game+experiences;Exploring+full-stack+development+step+by+step;Always+learning%2C+always+shipping+projects" />
 </p>
 
 <p align="center">
-  <strong>Passionate Developer</strong> · <strong>Clean Code Advocate</strong> · <strong>Game Logic Enthusiast</strong>
+  <img src="https://komarev.com/ghpvc/?username=567darshan&label=Profile+Views&color=00F7FF&style=flat-square" />
 </p>
 
 ---
 
 ## 🌍 About Me
 
-- 🎓 CSE student focused on **full-stack web development** and **interactive apps**
-- 🎮 Love converting real-world games into **code + logic**
-- 🚀 Currently polishing **Advanced Ludo Game** and learning **system design & performance**
-- 🎯 Goal: Build products that are **clean, scalable, and production-ready**
+- 🎓 CSE student who enjoys **breaking ideas into logic and code**
+- 🎮 Love transforming board games & concepts into **interactive web apps**
+- 🧠 Interested in **full-stack development, real-time systems & clean UI**
+- 💡 Believe in **learning by building** – projects > theory
+- 🎯 Goal: land a strong **high-paying dev role** and keep improving every day
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -37,30 +40,29 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,python,java,cpp&theme=dark" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases, Tools & Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
 </p>
 
 ---
 
-## 🎮 Highlight Project – Advanced Ludo Game
+## 🔭 Currently Focusing On
 
-<p align="center">
-  <a href="https://github.com/567darshan/ludo-game">
-    <img src="https://img.shields.io/badge/Advanced%20Ludo%20Game-161B22?style=for-the-badge&logo=github&logoColor=00F7FF" />
-  </a>
-</p>
+- Improving **frontend skills** with React + modern UI design
+- Understanding **backend architecture** (auth, APIs, security, sockets)
+- Writing **clean, maintainable code** instead of just “working code”
+- Turning ideas into **projects** that I can show in interviews & on GitHub
 
-> A modern Ludo experience inspired by **Ludo King**, built with **React + Vite** and **Node.js + Socket.io**.
+---
 
-**Key Features:**
+## 🧩 Some Things I’ve Built
 
-- 🎲 Turn-based dice system with clear UI  
-- 🧩 Token movement engine with paths & goal logic  
-- 🧑‍🤝‍🧑 Local demo mode for 4 players (Red, Green, Yellow, Blue)  
-- 🧱 Clean, dark-themed board with color-coded tracks  
-- 🌐 Backend ready for future **online multiplayer + rooms**
+- 🎮 **Advanced Ludo Web Game** – full UI, token movement engine, activity log  
+- 🔐 **Auth & JWT-based projects** – login/register flows, protected routes  
+- ☁️ Small experiments with **APIs, forms, and state management**
+
+> I keep improving these projects as I learn new patterns and techniques.
 
 ---
 
@@ -77,7 +79,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto-Generated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/567darshan/567darshan/output/github-contribution-grid-snake.svg" alt="github contribution snake animation">
@@ -85,31 +87,21 @@
 
 ---
 
-## 📚 Currently Learning
+## 🚀 2025 Roadmap
 
-- ⚛️ Advanced React patterns & performance  
-- 🧵 Real-time communication with **Socket.io / WebSockets**  
-- 🏗️ API design, auth, and backend architecture  
-- ☁️ Cloud deployment & CI/CD
-
----
-
-## 🎯 2025 Roadmap
-
-- ✅ Complete and polish **Advanced Ludo Game**
-- 🚀 Build at least **3 full-stack** projects (auth, payments, real-time, etc.)
-- 📦 Deploy projects on cloud platforms (Vercel / Render / AWS)
-- 💼 Land a strong **high-paying developer role**
-- 🌱 Start contributing to **open-source**
+- Ship more **full-stack apps** (auth, real-time, dashboards, games)
+- Deploy projects on **cloud hosting** (Vercel / Render / AWS)
+- Practice **DSA / problem solving** for interviews
+- Contribute to **open-source** and tech communities
+- Grow into a **confident, production-ready developer**
 
 ---
 
-## ⚡ Fun Side of Me
+## ⚡ Final Line
 
-> I enjoy turning **logic problems + games** into **interactive experiences**, where every move is controlled by code and every feature is a small system by itself.
-
----
+> I’m not just learning to code – I’m learning to **design, build and ship** real experiences.  
+> If you like my work or want to collaborate, feel free to reach out. 🙂
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:8A2BE2" />
 </p>
