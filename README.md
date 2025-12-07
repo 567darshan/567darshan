@@ -14,13 +14,6 @@
 
 ---
 
-## ✨ Live Quotes  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2700&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=%22Code+is+like+art%2C+every+line+matters.%22;%22Build+things+that+feel+good+to+use.%22;%22Consistency+%3E+Motivation.%22;%22Great+developers+are+great+problem+solvers.%22;%22Small+daily+progress+creates+big+results.%22" />
-</p>
-
----
-
 ## 🚀 About Me
 I’m **Darshan A**, a CSE student passionate about building:
 
@@ -29,8 +22,8 @@ I’m **Darshan A**, a CSE student passionate about building:
 - 🎨 *Smooth UI/UX with clean architecture*  
 - 💡 *Real projects that look professional and feel polished*
 
-I believe in **learning by building**  
-> Turning ideas → logic → code → real usable products.
+I believe in **learning by building** —  
+turning ideas → logic → code → real usable products.
 
 ---
 
@@ -56,24 +49,29 @@ I believe in **learning by building**
 
 ---
 
-## 🌟 Premium Highlights (New)
+## 🌟 Highlights
 
-💠 **Frontend:** Clean UI, modern animations, reusable components  
-💠 **Backend:** API design, auth (JWT), server structure  
-💠 **Game Logic:** Turn systems, grid mapping, pathfinding  
-💠 **Problem Solving:** Breaking complex logic into simple functions  
-💠 **Learning Fast:** Adaptable, consistent, eager to improve  
+- 💠 **Frontend:** React, modern layouts, clean components  
+- 💠 **Backend:** Node.js, APIs, auth (JWT), basic security  
+- 💠 **Game Logic:** Turn-based systems, movement paths, board logic  
+- 💠 **Problem Solving:** Breaking complex tasks into simple functions  
+- 💠 **Mindset:** Consistent, curious, always improving  
 
 ---
 
 ## 🔥 Featured Work
 
-- 🎮 **Advanced Ludo Web Game** — token movement engine, activity logs, clean UI  
-- 🔐 **Auth + JWT Projects** — login, register, protected routes  
-- 🌐 **Frontend UI Pages** — layouts, transitions, modern user experience  
+- 🎮 **Advanced Ludo Web Game**  
+  Token movement engine, activity log, coloured board UI  
+
+- 🔐 **Auth + JWT Projects**  
+  Login, signup, protected routes, basic token-based security  
+
+- 🌐 **Frontend UI Pages**  
+  Landing pages, forms, layouts, and interactive UI pieces  
 
 <p align="center">
-  <i>More projects coming soon…</i>
+  <i>More detailed projects coming soon…</i>
 </p>
 
 ---
@@ -98,12 +96,20 @@ I believe in **learning by building**
 
 ---
 
+## ✨ Random Dev Quote 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Code+is+not+just+syntax%2C+it's+thinking.;Build+things+that+you+would+actually+use.;Small+consistent+steps+beat+random+motivation.;Good+logic+%2B+good+UI+%3D+great+software.;Every+project+teaches+you+something+new." />
+</p>
+
+---
+
 ## 🎯 2025 Goals
 - Master *frontend + backend*  
-- Build **deployable real-world applications**  
-- Get a **high-paying developer role**  
-- Improve **logic, UI/UX, real-time systems**  
-- Keep shipping projects + polishing skills  
+- Build **high-quality deployable apps**  
+- Get a **high-paying developer job**  
+- Improve **logic, UI, real-time systems**  
+- Keep shipping projects & refining skills  
 
 ---
 
