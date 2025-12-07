@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/567darshan/567darshan/main/assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">🚀 Darshan A</h1>
+<h1 align="center">🚀 Darshan A</h1>s
 
 <p align="center">
   <b>Full-Stack Developer | Game Logic Engineer | UI/UX Enthusiast</b><br>
