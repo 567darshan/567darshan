@@ -86,12 +86,7 @@ I learn by building — turning ideas → beautiful applications.
 
 ---
 
-## 🎯 2025 Goals
-- Master **frontend + backend**
-- Build **deployable advanced projects**
-- Get a **high-paying developer job**
-- Improve real-time systems & UI
-- Keep shipping polished work
+
 
 ---
 
