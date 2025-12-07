@@ -23,11 +23,18 @@ I’m **Darshan A**, a CSE student passionate about:
 
 I improve by creating → testing → polishing → shipping.
 
-## 🌐 Connect With Me  
-<p align="center" style="margin-top: -10px;">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:darshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshan-a-91652a265" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:darshanveerapur986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+---
 
 ## 🛠 Tech Stack
 ### ⚡ Languages & Frameworks
